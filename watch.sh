@@ -1,0 +1,1 @@
+nodemon --watch "style.less" --exec "bash release.sh" --ext less
